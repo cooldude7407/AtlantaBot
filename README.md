@@ -3,7 +3,8 @@
 # Atlanta
 
 [![](https://img.shields.io/discord/565048515357835264.svg?logo=discord&colorB=7289DA)](https://discord.atlanta-bot.fr)
-[![](https://discordbots.org/api/widget/status/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897)
+[![]
+[![Run on Repl.it](https://repl.it/badge/github/Androz2091/AtlantaBot)](https://repl.it/github/Androz2091/AtlantaBot)(https://discordbots.org/api/widget/status/557445719892688897.svg)](https://discordbots.org/bot/557445719892688897)
 [![](https://img.shields.io/badge/discord.js-v12.0.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
 [![](https://img.shields.io/badge/patreon-donate-orange.svg)](https://www.patreon.com/androz2091)
 [![](https://www.codefactor.io/repository/github/Androz2091/AtlantaBot/badge)](https://www.codefactor.io/repository/github/Androz2091/AtlantaBot)
